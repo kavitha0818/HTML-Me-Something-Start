@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+
+.flag {
+    width: 23px;
+    height: 15px;
+}
+.images {
+    width: 100%;
+}
+
+#testP {
+    text-indent: 50px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+
